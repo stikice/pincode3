@@ -1,4 +1,2 @@
 # pincode3
-[IMPORTANT]
-In order to enter to Result Activity
-You need to enter pin "1567"
+In order to enter to Result Activity you need to enter pin "1567"
